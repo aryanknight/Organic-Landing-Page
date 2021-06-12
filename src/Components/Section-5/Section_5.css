@@ -1,0 +1,27 @@
+.footercontainer{
+    margin-top: 100px;
+    max-width: 100%;
+    padding: 1rem;
+    background-image: url('../asset/grp229.png');
+}
+
+.footercontent{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.content1{
+    padding: 1rem;
+    text-align: left;
+    min-width: 22rem;
+}
+
+@media only screen and (max-width: 780px) {
+
+    #content2{
+        display: none;
+    }
+}

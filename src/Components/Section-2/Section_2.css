@@ -1,0 +1,50 @@
+.cardcontainer{
+    margin-top: 5rem;
+}
+
+.section2container1{
+    margin-top: 5rem;
+    max-width: 98%;
+}
+.section2container2{
+    margin-top: 82px;
+    padding-top:79px;
+    max-width: 98%;
+    background-color: #fbfefe;
+}
+
+.heading{
+    font-size: 36px;
+    color: #374b5c;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.para{
+    max-width: 25rem;
+    font-size: 16px;
+    color: #374b5c;
+    font-family: 'Roboto', sans-serif;
+}
+
+.dots{
+    margin-top: 4rem;
+    padding-bottom: 36px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dot{
+    width: 10px;
+    height: 10px;
+    background-color: #374b5c;
+    border-radius: 50%;
+    margin:0 0.4rem;
+}
+
+.dot:hover{
+    background-color: #00dbd0;
+}
+

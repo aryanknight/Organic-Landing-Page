@@ -1,0 +1,23 @@
+.cardcontainer1{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    max-width: 278px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.cardimages{
+    max-width: 278px;
+    height: 195px;
+}
+
+.cardtitle{
+    font-weight: bold;
+    color:#00dbd0;
+    font-size:20px;
+}
+
+.cardpara{
+    font-family: 'Roboto';
+    color:#374b5c
+}
